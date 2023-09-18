@@ -1,0 +1,14 @@
+# marlin-user 7.1.2 NJH47F 4146041 release-keys
+- manufacturer: google
+- platform: msm8996
+- codename: marlin
+- flavor: marlin-user
+- release: 7.1.2
+- id: NJH47F
+- incremental: 4146041
+- tags: release-keys
+- fingerprint: google/marlin/marlin:7.1.2/NJH47F/4146041:user/release-keys
+- is_ab: true
+- brand: google
+- branch: marlin-user-7.1.2-NJH47F-4146041-release-keys
+- repo: google_marlin_dump
